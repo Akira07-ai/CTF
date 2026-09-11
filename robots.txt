@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin.html
+
+# You found the first clue.
+# Username = the name he calls you.
+# Password = the other name he calls you.
