@@ -1,6 +1,2 @@
 User-agent: *
 Disallow: /admin.html
-
-# You found it.
-# Username = the first name he calls you.
-# Password = the other name.
